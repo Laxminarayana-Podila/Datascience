@@ -1,0 +1,132 @@
+AI PRO BATCH - Upcoming 
+https://learn.krishnaikacademy.com/web/checkout/679b95a2eebb2fb1faacafb4
+Contact +91 878 850 3778
+
+My 17, 2025 - Python Monal
+
+--------------------------
+
+url = "https://raw.githubusercontent.com/Monalsingh/VideoBroadcaster/refs/heads/main/static/default-office-animated.png"
+
+=========================================
+May 18 Krish:
+conda create 	
+
+conda create minus p, VENV Python double equal to 3.13.
+
+conda create minus p, VENV Python double equal to 3.13.
+
+
+conda create minus p, VENV Python double equal to 3.13.
+conda create -p, venv python double equal to 3.13.
+conda activate venv/
+
+Pydentic
+
+
+from pydantic BaseModel
+https://docs.pydantic.dev/latest/
+
+Grog.com
+
+
+========================
+Monal May 28: by Krish
+
+https://www.udemy.com/course/complete-computer-vision-bootcamp-with-pytoch-tensorflow/?couponCode=CP130525
+
+
+pip install -r requiremnts.txt 
+
+Krish - Date May 24
+
+Langchain data loaders: https://python.langchain.com/docs/integrations/document_loaders/
+
+
+May 25 Monal 
+NumPy.org
+data types in NumPy dtype
+
+https://numpy.org/doc/1.25/user/basics.types
+may 30 krish 
+langchain embeddings model search 
+https://python.langchain.com/docs/integrations/text_embedding/
+
+May 31 RAG 2 AGentic AI 
+Architecture of RAG
+
+https://superlinked.com/vector-db-comparison
+https://smith.langchain.com/hub/smithing-gold/assumption-checker
+
+
+June 06-06-2025 Sunny Agentic AI 2.0 Langgraph
+
+
+https://github.com/sunnysavita10/Agentic-2.0
+
+Clone the Git to local machina google for it
+https://github.com/sunnysavita10/Agentic-2.0.git
+
+https://github.com/sunnysavita10/Agentic-2.0.git
+
+https://python.langchain.com/docs/integrations/tools/
+
+https://github.com/sunnysavita10/Agentic-2.0/blob/main/langgraph/tools.ipynb
+
+https://github.com/sunnysavita10/Agentic-2.0
+https://github.com/sunnysavita10/Agentic-2.0/blob/main/langgraph/tools.ipynb
+
+
+
+or pull request
+
+tavily api key google search
+https://tavily.us.auth0.com/u/login/identifier?state=hKFo2SB3QWhNT1dNOGZqRzBBaTIwZ1E5Q1pFbjlqbjVfQ3JpbqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIHFmN1FqaDFLQmRMMVBNb3BiY0ozX2ZmcDczR2kwa0tuo2NpZNkgUlJJQXZ2WE5GeHBmVFdJb3pYMW1YcUxueVVtWVNUclE
+https://tavily.us.auth0.com/u/login/identifier?state=hKFo2SB3QWhNT1dNOGZqRzBBaTIwZ1E5Q1pFbjlqbjVfQ3JpbqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIHFmN1FqaDFLQmRMMVBNb3BiY0ozX2ZmcDczR2kwa0tuo2NpZNkgUlJJQXZ2WE5GeHBmVFdJb3pYMW1YcUxueVVtWVNUclE
+
+pipinstall 
+
+
+monal June 7
+
+https://github.com/datasciencedojo/datasets
+https://github.com/mwaskom/seaborn-data/tree/master
+
+https://www.kaggle.com/datasets/yasserh/titanic-dataset
+Monal Ju
+
+
+
+AgenticAI June 7 Sunny
+
+pip install langchain_chromadb
+
+Returning view vs copy PAndas - June 8 2025
+https://tedboy.github.io/pandas/indexing/indexing21.html
+
+
+JUNE 13 Agentic AI
+submit assignments here https://docs.google.com/forms/d/e/1FAIpQLSdcJhzbSB-faAwb5DwoZegMaKLd1NlaNICBjpJBqEFhFO2fvg/viewform
+
+or here
+https://docs.google.com/forms/d/e/1FAIpQLSdcJhzbSB-faAwb5DwoZegMaKLd1NlaNICBjpJBqEFhFO2fvg/viewform
+
+React -React reasoning and action - Important published paper
+https://arxiv.org/pdf/2210.03629
+
+Langgraph Assignment sub page: https://docs.google.com/forms/d/e/1FAIpQLSdzdtyDn8USW2VUoKH7O2rtuxaOcGIxhWP6JTG71S8Ag16wrw/viewform
+
+
+https://pandas.pydata.org/docs/user_guide/indexing.html
+
+Monal PandasIII and GIT June 14, 2025
+
+Pandas Dataframe df df is rows and columns
+df is a objects of pandas
+
+read csv or json file and load it as dataframe
+3rd Module Pandas Completed June 14
+
+
+
+

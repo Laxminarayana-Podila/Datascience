@@ -1,0 +1,50 @@
+AI PRO BATCH - Upcoming 
+https://learn.krishnaikacademy.com/web/checkout/679b95a2eebb2fb1faacafb4
+Contact +91 878 850 3778
+
+My 17, 2025 - Python Monal
+
+--------------------------
+
+url = "https://raw.githubusercontent.com/Monalsingh/VideoBroadcaster/refs/heads/main/static/default-office-animated.png"
+
+=========================================
+May 18 Krish:
+conda create 	
+
+conda create minus p, VENV Python double equal to 3.13.
+
+conda create minus p, VENV Python double equal to 3.13.
+
+
+conda create minus p, VENV Python double equal to 3.13.
+conda create -p, venv python double equal to 3.13.
+conda activate venv/
+
+Pydentic
+
+
+from pydantic BaseModel
+https://docs.pydantic.dev/latest/
+
+Grog.com
+
+
+========================
+Monal May 28: by Krish
+
+https://www.udemy.com/course/complete-computer-vision-bootcamp-with-pytoch-tensorflow/?couponCode=CP130525
+
+
+pip install -r requiremnts.txt 
+
+Krish - Date May 24
+
+Langchain data loaders: https://python.langchain.com/docs/integrations/document_loaders/
+
+
+May 25 Monal 
+NumPy.org
+data types in NumPy dtype
+
+https://numpy.org/doc/1.25/user/basics.types
